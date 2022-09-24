@@ -1,0 +1,12 @@
+C:\Development\BackEnd\C#_Projects\autoparts\bin\Debug\autoparts.exe.config
+C:\Development\BackEnd\C#_Projects\autoparts\bin\Debug\autoparts.exe
+C:\Development\BackEnd\C#_Projects\autoparts\bin\Debug\autoparts.pdb
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.csproj.AssemblyReference.cache
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.Autoparts.resources
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.Properties.Resources.resources
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.csproj.GenerateResource.cache
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.exe
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.pdb
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.customTextBox.customBox.resources
+C:\Development\BackEnd\C#_Projects\autoparts\obj\Debug\autoparts.PantallaVisitante.resources
